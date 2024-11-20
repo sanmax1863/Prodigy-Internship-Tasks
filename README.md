@@ -1,5 +1,5 @@
 # Prodigy-Internship-Tasks
-This were my internship tasks done between 15th Oct to 15 Nov period.
+This were my internship tasks done between 15th Oct to 15th Nov period.
 
 Task 1: Implement a linear regression model to predict the prices of houses based on their square footage and the number of bedrooms and bathrooms.
 Dataset : - https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
